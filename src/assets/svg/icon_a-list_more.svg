@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="5px" viewBox="0 0 18 5" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_a-list_more</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="任务分派" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="A_待处理" transform="translate(-329.000000, -137.000000)" fill="#CCCFD4">
+            <g id="任务列表-卡片式" transform="translate(14.000000, 125.000000)">
+                <g id="icon_a-list_more" transform="translate(315.000000, 12.000000)">
+                    <path d="M2,4.5 C0.8954305,4.5 0,3.6045695 0,2.5 C0,1.3954305 0.8954305,0.5 2,0.5 C3.1045695,0.5 4,1.3954305 4,2.5 C4,3.6045695 3.1045695,4.5 2,4.5 Z M9,4.5 C7.8954305,4.5 7,3.6045695 7,2.5 C7,1.3954305 7.8954305,0.5 9,0.5 C10.1045695,0.5 11,1.3954305 11,2.5 C11,3.6045695 10.1045695,4.5 9,4.5 Z M16,4.5 C14.8954305,4.5 14,3.6045695 14,2.5 C14,1.3954305 14.8954305,0.5 16,0.5 C17.1045695,0.5 18,1.3954305 18,2.5 C18,3.6045695 17.1045695,4.5 16,4.5 Z" id="icon-更多"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

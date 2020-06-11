@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_a-form_radio</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="创建表单" transform="translate(-219.000000, -98.000000)" fill="#7B7D80">
+            <g id="01" transform="translate(8.000000, 80.000000)">
+                <g id="单项选择" transform="translate(180.000000, 0.000000)">
+                    <g id="ic_a-form_radio" transform="translate(31.000000, 18.000000)">
+                        <path d="M14,1.7 C7.20689758,1.7 1.7,7.20689758 1.7,14 C1.7,20.7931024 7.20689758,26.3 14,26.3 C20.7931024,26.3 26.3,20.7931024 26.3,14 C26.3,7.20689758 20.7931024,1.7 14,1.7 Z M14,0 C21.7319865,-1.42034288e-15 28,6.2680135 28,14 C28,21.7319865 21.7319865,28 14,28 C6.2680135,28 9.46895252e-16,21.7319865 0,14 C-9.46895252e-16,6.2680135 6.2680135,1.42034288e-15 14,0 Z" id="Rectangle-4" fill-rule="nonzero"></path>
+                        <circle id="Oval" cx="14" cy="14" r="7"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

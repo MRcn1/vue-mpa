@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="46px" viewBox="0 0 46 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_a-home_app11</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#CBCBCB" offset="0%"></stop>
+            <stop stop-color="#969696" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页入口/审批">
+            <g id="Group" transform="translate(-0.750000, 0.000000)">
+                <rect id="Rectangle-9" fill="#C3C3C3" opacity="0.359375" x="14.9213867" y="5" width="17.1650391" height="6.64453125" rx="1.5"></rect>
+                <path d="M11.028711,8.32226562 L35.9791015,8.32226562 C37.3460063,8.32226562 38.4541016,9.43036089 38.4541016,10.7972657 L38.4541016,37.9624999 C38.4541016,39.3294047 37.3460063,40.4375 35.9791015,40.4375 L11.028711,40.4375 C9.66180621,40.4375 8.55371094,39.3294047 8.55371094,37.9624999 L8.55371094,10.7972657 C8.55371094,9.43036089 9.66180621,8.32226562 11.028711,8.32226562 Z" id="Mask" fill="url(#linearGradient-1)"></path>
+                <path d="M14.9213867,8.32226562 L32.0864258,8.32226562 L32.0864258,9.95703125 C32.0864258,10.8890118 31.3309063,11.6445312 30.3989258,11.6445312 L16.6088867,11.6445312 C15.6769062,11.6445312 14.9213867,10.8890118 14.9213867,9.95703125 L14.9213867,8.32226562 Z" id="Combined-Shape" fill="#BABABA"></path>
+                <path d="M17.8294212,26.2073762 L17.8294212,28.8431949 L20.4251731,28.8431949 L29.7846526,19.9553694 C30.5120778,19.2646015 30.5417944,18.1149288 29.8510265,17.3875036 C29.8434454,17.3795202 29.8357919,17.3716059 29.8280669,17.3637617 L29.8280669,17.3637617 C29.1074838,16.6320561 27.9335875,16.6123911 27.1889007,17.3195507 L17.8294212,26.2073762 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <rect id="Rectangle" fill="#FFFFFF" x="17.5039062" y="30" width="10" height="1.39999998" rx="0.699999988"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

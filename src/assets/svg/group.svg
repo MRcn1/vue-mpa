@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="39px" viewBox="0 0 38 39" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="任务分派" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="A1.7_添加内容" transform="translate(-48.000000, -221.000000)" stroke="#0A1735">
+            <g id="添加内容" transform="translate(20.000000, 204.000000)">
+                <g id="任务地点" transform="translate(23.000000, 18.500000)">
+                    <g id="Group" transform="translate(5.476190, -0.500000)">
+                        <path d="M29.5471724,25.0377379 C29.5471724,26.9057712 28.0331298,28.4198138 26.1650965,28.4198138 L10.3820759,28.4198138 C8.51404263,28.4198138 7,26.9057712 7,25.0377379 L7,10.3820759 C7,8.51404263 8.51404263,7 10.3820759,7 L26.1650965,7 C28.0331298,7 29.5471724,8.51404263 29.5471724,10.3820759 L29.5471724,25.0377379 L29.5471724,25.0377379 Z" id="Shape" stroke-width="1.5"></path>
+                        <path d="M11.5094345,12.6367931 L25.0377379,12.6367931" id="Shape" stroke-width="1.2"></path>
+                        <path d="M11.5094345,17.7099069 L25.0377379,17.7099069" id="Shape" stroke-width="1.2"></path>
+                        <path d="M11.5094345,22.7830207 L25.0377379,22.7830207" id="Shape" stroke-width="1.2"></path>
+                        <path d="M14.8915103,11.5094345 L14.8915103,13.7641517" id="Shape" stroke-width="1.5"></path>
+                        <path d="M21.6556621,16.5825483 L21.6556621,18.8372655" id="Shape" stroke-width="1.5"></path>
+                        <path d="M14.8915103,21.6556621 L14.8915103,23.9103793" id="Shape" stroke-width="1.5"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

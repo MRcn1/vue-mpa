@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="375px" height="34px" viewBox="0 0 375 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="105.828706%" x2="50%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#68A4DE" offset="0%"></stop>
+            <stop stop-color="#5077AA" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="设计稿" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="A4_我的" transform="translate(0.000000, -62.000000)">
+            <g id="我的考勤" transform="translate(0.000000, 59.000000)">
+                <g id="bg">
+                    <g id="Group-5">
+                        <path d="M0,192.883273 C102.48136,100.645965 227.472169,63.6862204 374.972428,82.0040398 C375.009191,17.9840777 375.009191,-8.5509426 374.972428,2.39897896 L0,2.39897896 L0,192.883273 Z" id="Path-2" fill="url(#linearGradient-1)"></path>
+                        <path d="M40,3 L335,3 C341.627417,3 347,8.372583 347,15 L347,35.7728267 L28,35.7728267 L28,15 C28,8.372583 33.372583,3 40,3 Z" id="Rectangle" fill="#FFFFFF" opacity="0.06"></path>
+                        <path d="M24,11.3862293 L351,11.3862293 C357.627417,11.3862293 363,16.7588123 363,23.3862293 L363,36.2583794 L12,36.2583794 L12,23.3862293 C12,16.7588123 17.372583,11.3862293 24,11.3862293 Z" id="Rectangle" fill="#91ACCE" opacity="0.7"></path>
+                        <path d="M12,19.7724585 L363,19.7724585 C369.627417,19.7724585 375,25.1450415 375,31.7724585 L375,44.6446087 L0,44.6446087 L0,31.7724585 C-8.11624501e-16,25.1450415 5.372583,19.7724585 12,19.7724585 Z" id="Rectangle" fill="#FFFFFF"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

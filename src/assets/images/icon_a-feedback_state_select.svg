@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="18px" viewBox="0 0 14 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_a-feedback_state_select</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="任务分派" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="A1.11_进度反馈" transform="translate(-194.000000, -593.000000)">
+            <g id="按百分比" transform="translate(125.000000, 542.000000)">
+                <g id="Group-2" transform="translate(36.000000, 34.500000)">
+                    <g id="icon_a-feedback_state_select" transform="translate(33.000000, 17.652512)">
+                        <path d="M6.92226675,1.16932288 C3.15000385,1.16932288 0,4.31932673 0,8.24712449 C0,12.019319 3.15000385,15.1693229 6.92226675,15.1693229 C10.8889098,15.1693229 14,12.019319 14,8.24712449 C14,4.31932673 10.8499962,1.16932288 6.92226675,1.16932288 Z" id="Fill-1" fill="#FFFFFF"></path>
+                        <path d="M6.92226675,1.16932288 C3.15000385,1.16932288 0,4.31932673 0,8.24712449 C0,12.019319 3.15000385,15.1693229 6.92226675,15.1693229 C10.8889098,15.1693229 14,12.019319 14,8.24712449 C14,4.31932673 10.8499962,1.16932288 6.92226675,1.16932288 Z M5.87223129,11.2804558 L3.11109022,8.55821129 C3.07224496,8.51929767 3.88888414,7.78043447 3.88888414,7.78043447 L5.87223129,9.72486799 L10.1111329,5.44712107 L10.8889098,6.22484663 L5.87223129,11.2804558 Z" id="Fill-1" fill="#FF548F"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="19px" viewBox="0 0 19 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_a-details_tab-end</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="任务分派" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="A2.1_任务详情（发起人）" transform="translate(-228.000000, -1810.000000)" fill="#B2B9C8">
+            <g id="tab" transform="translate(0.000000, 1794.000000)">
+                <g id="Group-12" transform="translate(228.038994, 15.925100)">
+                    <g id="Group" transform="translate(0.000000, 0.500000)">
+                        <path d="M10.999,8 L6.9995,8 C6.447,8 5.9995,8.4475 5.9995,9 C5.9995,9.552 6.447,10 6.9995,10 L10.999,10 C11.551,10 11.9995,9.552 11.9995,9 C11.9995,8.4475 11.551,8 10.999,8 M8.999,14.5 C5.9615,14.5 3.499,12.0375 3.499,9 C3.499,5.9625 5.9615,3.5 8.999,3.5 C12.037,3.5 14.499,5.9625 14.499,9 C14.499,12.0375 12.037,14.5 8.999,14.5 M9,1.5 C4.858,1.5 1.5,4.858 1.5,9 C1.5,13.1425 4.858,16.5 9,16.5 C13.142,16.5 16.5,13.1425 16.5,9 C16.5,4.858 13.142,1.5 9,1.5" id="Fill-6"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_a-details_operate</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="任务分派" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="A2.1_任务详情（发起人）" transform="translate(-109.000000, -1345.000000)" stroke="#5585F0">
+            <g id="评论" transform="translate(0.000000, 1331.000000)">
+                <g transform="translate(90.000000, 0.000000)" id="操作">
+                    <g transform="translate(19.000000, 10.863636)">
+                        <g id="icon_a-details_operate" transform="translate(0.000000, 2.636364)">
+                            <path d="M12.4444874,15.2778336 L4.88889748,15.2778336 C3.84559644,15.2778336 3,14.2748291 3,13.231528 L3,4.73148936 C3,3.68818832 3.84559644,3 4.88889748,3 L9.61114119,3 C11.4553348,4.57408124 12.4891913,5.72064201 14.3333849,7.56483558 L14.3333849,13.231528 C14.3333849,14.2748291 13.4877885,15.2778336 12.4444874,15.2778336 L12.4444874,15.2778336 Z" id="Shape"></path>
+                            <path d="M9.29632494,3.31481625 L9.29632494,6.14816247 C9.29632494,7.19146351 10.2993295,8.03705995 11.3426305,8.03705995 L14.0185686,8.03705995" id="Shape"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_a-newtask-list_preside</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="任务分派" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="补_新建图标" transform="translate(-14.000000, -374.000000)" stroke="#B2B9C8">
+            <g id="属性内容" transform="translate(0.000000, 364.000000)">
+                <g id="icon_日期" transform="translate(14.000000, 10.000000)">
+                    <g id="Group">
+                        <path d="M19.3492285,20.4056612 C20.1357351,20.4056612 20.6656135,19.6224049 20.4004716,18.8821224 C19.5863968,16.6077603 17.7539175,14.821109 15.4523723,14.0658262" id="Shape"></path>
+                        <path d="M10.0806136,14.0662316 C7.77906831,14.8215144 5.9465891,16.6081657 5.13251427,18.8825278 C4.86737236,19.6228104 5.39725075,20.4060666 6.18375732,20.4060666" id="Shape"></path>
+                        <path d="M17.631482,9.86494564 C17.631482,12.5516119 15.4531831,14.7298913 12.7664929,14.7298913 C10.0798027,14.7298913 7.90150387,12.5516119 7.90150387,9.86494564 C7.90150387,7.17827941 10.0798027,5 12.7664929,5 C15.4531831,5 17.631482,7.17827941 17.631482,9.86494564 L17.631482,9.86494564 Z" id="Shape"></path>
+                        <polygon id="Path-7" stroke-linejoin="round" points="12.3917019 14.9247387 11.7997517 19.0908538 12.9499897 20.5536564 14.2002483 19.0908538 13.5635769 14.9247387"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

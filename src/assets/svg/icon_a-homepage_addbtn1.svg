@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_a-homepage_addbtn1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="20180810" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="A2_展开菜单" transform="translate(-304.000000, -354.000000)">
+            <rect fill="#FFFFFF" x="0" y="0" width="375" height="667"></rect>
+            <g id="Group" transform="translate(232.000000, 354.000000)">
+                <g id="列表/标题/类别/话题" transform="translate(72.000000, 0.000000)">
+                    <g id="Group">
+                        <circle id="Oval-5" fill="#FFFFFF" cx="28" cy="28" r="28"></circle>
+                        <g id="同事社区" transform="translate(13.671078, 14.000000)">
+                            <path d="M15.3536359,21.2791117 C14.5283843,20.092771 14.0445894,18.6510956 14.0445894,17.0964239 C14.0445894,13.0464246 17.3277625,9.76325158 21.3777617,9.76325158 C25.4277609,9.76325158 28.710934,13.0464246 28.710934,17.0964239 C28.710934,21.1464231 25.4277609,24.4295962 21.3777617,24.4295962 L15.6391178,24.4295962 C15.4814505,24.4295962 15.3536359,24.3017815 15.3536359,24.1441142 L15.3536359,21.2791117 Z" id="Combined-Shape" fill="#8E9DF7" transform="translate(21.377762, 17.096424) scale(-1, 1) translate(-21.377762, -17.096424) "></path>
+                            <path d="M2.25470776,18.7220782 C0.923271406,16.8080713 0.142731022,14.482115 0.142731022,11.9738537 C0.142731022,5.43970506 5.43970506,0.142731022 11.9738537,0.142731022 C18.5080023,0.142731022 23.8049763,5.43970506 23.8049763,11.9738537 C23.8049763,18.5080023 18.5080023,23.8049763 11.9738537,23.8049763 L2.71529587,23.8049763 C2.46092008,23.8049763 2.25470776,23.598764 2.25470776,23.3443882 L2.25470776,18.7220782 Z" id="Combined-Shape" stroke="#FFFFFF" stroke-width="2" fill="#8E9DF7"></path>
+                            <rect id="Rectangle-3" fill="#F7F8FA" fill-rule="nonzero" x="7.18854278" y="8.29818361" width="9.98676749" height="2.21928166" rx="1.10964083"></rect>
+                            <rect id="Rectangle-3-Copy" fill="#F7F8FA" fill-rule="nonzero" x="7.18854278" y="12.7367469" width="9.98676749" height="2.21928166" rx="1.10964083"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

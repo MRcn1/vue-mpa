@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_a-pxks</title>
+    <desc>Created with Sketch.</desc>
+    <g id="ic_a-pxks" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="矩形" fill="#5EC8FC" fill-rule="nonzero" x="0" y="0" width="44" height="44" rx="4"></rect>
+        <g id="分组" transform="translate(9.000000, 7.000000)">
+            <g>
+                <path d="M3.37241867,0.333304 L22.1038053,0.333304 L22.1038053,29.9599707 L3.550472,29.9599707 C1.64116533,29.9599707 0.0932453333,28.3997307 0.0932453333,26.474584 L0.0932453333,3.818984 C0.0932453333,1.89383733 1.463112,0.333304 3.37241867,0.333304" id="Fill-2" fill="#FFFFFF"></path>
+                <polygon id="Fill-4" fill="#FFFFFF" points="9.18666667 29.96 25.9066667 29.96 25.9066667 28.2 9.18666667 28.2"></polygon>
+                <polygon id="Fill-6" fill="#FFFFFF" points="24.1466667 29.96 25.9066667 29.96 25.9066667 4.14666667 24.1466667 4.14666667"></polygon>
+                <path d="M4.50506667,22.9185333 L22.2156533,22.9185333 L22.2156533,28.19912 L4.68429333,28.19912 C3.11877333,28.19912 1.84952,27.0169867 1.84952,25.5588267 C1.84952,24.1006667 2.93925333,22.9185333 4.50506667,22.9185333" id="Fill-7" fill="#5EC8FC"></path>
+                <polyline id="Fill-8" fill="#FFFFFF" points="22.0933333 24.6799707 22.0933333 26.4399707 5.37333333 26.4399707 5.37333333 24.6799707"></polyline>
+                <path d="M11.5349173,13.9945903 L6.84,17.3427067 L6.84,7.67062667 L11.5349173,11.0185399 L11.5349173,7.67062667 L18.279824,12.50652 L11.5349173,17.3427067 L11.5349173,13.9945903 Z" id="合并形状" fill="#5EC8FC" opacity="0.5"></path>
+            </g>
+        </g>
+    </g>
+</svg>

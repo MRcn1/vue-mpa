@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="37px" height="37px" viewBox="0 0 37 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_a-add_preside</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="任务分派" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="补_新增图标" transform="translate(-169.000000, -102.000000)" stroke="#0A1735" stroke-width="1.5">
+            <g id="添加内容" transform="translate(140.500000, 84.000000)">
+                <g id="任务地点" transform="translate(29.000000, 18.500000)">
+                    <g id="icon_地点" transform="translate(-1.000000, 0.000000)">
+                        <g id="Group" transform="translate(1.000000, 0.000000)">
+                            <path d="M26.7912395,28.2539924 C27.8802486,28.2539924 28.6139264,27.1694838 28.2468068,26.1444771 C27.1196263,22.9953604 24.5823474,20.5215356 21.3955924,19.4757594" id="Shape"></path>
+                            <path d="M13.9577726,19.4763207 C10.7710177,20.5220969 8.23373876,22.9959217 7.10655821,26.1450385 C6.73943866,27.1700451 7.47311643,28.2545538 8.56212552,28.2545538" id="Shape"></path>
+                            <path d="M24.4128212,13.6591555 C24.4128212,17.3791549 21.3967151,20.3952341 17.6766825,20.3952341 C13.9566499,20.3952341 10.9405438,17.3791549 10.9405438,13.6591555 C10.9405438,9.93915611 13.9566499,6.92307692 17.6766825,6.92307692 C21.3967151,6.92307692 24.4128212,9.93915611 24.4128212,13.6591555 L24.4128212,13.6591555 Z" id="Shape"></path>
+                            <polygon id="Path-7" stroke-linejoin="round" points="17.1577411 20.6650228 16.3381177 26.4334898 17.9307549 28.4589089 19.6618823 26.4334898 18.7803373 20.6650228"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

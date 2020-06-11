@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="31px" viewBox="0 0 32 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_a-feedback_state</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="任务分派" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="A1.11_进度反馈" transform="translate(-46.000000, -576.000000)" stroke="#648EEC" stroke-width="1.5">
+            <g id="按完成状态" transform="translate(0.000000, 542.000000)">
+                <g id="Group" transform="translate(30.000000, 34.500000)">
+                    <g id="icon_反馈方式" transform="translate(16.000000, 0.000000)">
+                        <g transform="translate(0.500000, 0.000000)">
+                            <rect id="Rectangle" x="1.75" y="3.17055448" width="27.2099284" height="25.5" rx="4"></rect>
+                            <path d="M8.03100288,0.739341489 L8.03100288,5.42667674" id="Path-2" stroke-linecap="round"></path>
+                            <path d="M22.6789255,0.739341489 L22.6789255,5.42667674" id="Path-2" stroke-linecap="round"></path>
+                            <polyline id="Path-3" stroke-linecap="round" stroke-linejoin="round" points="7.88295523 15.0406015 13.8254472 20.5605146 23.4503781 10.6541137"></polyline>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

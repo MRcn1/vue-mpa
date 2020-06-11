@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="47px" height="46px" viewBox="0 0 47 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_a-homepage_btn1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#9FABF7" offset="0%"></stop>
+            <stop stop-color="#8395F7" offset="100%"></stop>
+        </linearGradient>
+        <path d="M2.12428599,17.6391146 C0.86986551,15.8358218 0.13447486,13.6444086 0.13447486,11.2812357 C0.13447486,5.12504967 5.12504967,0.13447486 11.2812357,0.13447486 C17.4374217,0.13447486 22.4279965,5.12504967 22.4279965,11.2812357 C22.4279965,17.4374217 17.4374217,22.4279965 11.2812357,22.4279965 L2.55823176,22.4279965 C2.31857013,22.4279965 2.12428599,22.2337124 2.12428599,21.9940508 L2.12428599,17.6391146 Z" id="path-2"></path>
+        <filter x="-22.4%" y="-17.9%" width="144.9%" height="144.9%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.47139926   0 0 0 0 0.546034351   0 0 0 0 0.952380952  0 0 0 0.66 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="A3_首页（无数据1）" transform="translate(-46.000000, -90.000000)">
+            <g id="Group-3" transform="translate(14.000000, 75.000000)">
+                <g id="列表/入口图标" transform="translate(32.500000, 15.000000)">
+                    <g id="Group">
+                        <circle id="Oval" fill="url(#linearGradient-1)" cx="23" cy="23" r="23"></circle>
+                        <g id="同事社区" transform="translate(8.500000, 11.000000)">
+                            <path d="M15.4655171,20.0482385 C14.6880016,18.9305207 14.2321914,17.5722379 14.2321914,16.1074949 C14.2321914,12.2917646 17.3254519,9.1985041 21.1411822,9.1985041 C24.9569124,9.1985041 28.050173,12.2917646 28.050173,16.1074949 C28.050173,19.9232252 24.9569124,23.0164857 21.1411822,23.0164857 L15.7344856,23.0164857 C15.5859384,23.0164857 15.4655171,22.8960644 15.4655171,22.7475172 L15.4655171,20.0482385 Z" id="Combined-Shape" fill="#B6BFFF" transform="translate(21.141182, 16.107495) scale(-1, 1) translate(-21.141182, -16.107495) "></path>
+                            <g id="Combined-Shape">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                                <use fill="#F2F4FF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                            </g>
+                            <path d="M6.75186642,12.2485041 C5.90963219,12.2485041 5.22686645,11.5657383 5.22686645,10.7235041 C5.22686645,9.88126984 5.90963219,9.1985041 6.75186642,9.1985041 C7.59410065,9.1985041 8.2768664,9.88126984 8.2768664,10.7235041 C8.2768664,11.5657383 7.59410065,12.2485041 6.75186642,12.2485041 Z M11.1756245,12.2485041 C10.3333903,12.2485041 9.65062454,11.5657383 9.65062454,10.7235041 C9.65062454,9.88126984 10.3333903,9.1985041 11.1756245,9.1985041 C12.0178587,9.1985041 12.7006245,9.88126984 12.7006245,10.7235041 C12.7006245,11.5657383 12.0178587,12.2485041 11.1756245,12.2485041 Z M15.8106049,12.2485041 C14.9683707,12.2485041 14.285605,11.5657383 14.285605,10.7235041 C14.285605,9.88126984 14.9683707,9.1985041 15.8106049,9.1985041 C16.6528392,9.1985041 17.3356049,9.88126984 17.3356049,10.7235041 C17.3356049,11.5657383 16.6528392,12.2485041 15.8106049,12.2485041 Z" id="Combined-Shape" fill="#ADB8FF"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

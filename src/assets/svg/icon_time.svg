@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="37px" viewBox="0 0 38 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_日期</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="任务分派" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="A1.7_添加内容" transform="translate(-48.000000, -102.000000)" stroke="#0A1735" stroke-width="1.5">
+            <g id="添加内容" transform="translate(20.000000, 84.000000)">
+                <g id="任务地点" transform="translate(23.000000, 18.500000)">
+                    <g id="icon_日期" transform="translate(5.541667, 0.000000)">
+                        <g id="日期" transform="translate(6.000000, 6.000000)">
+                            <path d="M3.89093878,1.82103219 C1.82770931,1.82103219 0,3.49334675 0,5.55657622 L0,18.6303733 C0,20.6936028 1.98371107,22.459397 4.04633353,22.459397 L20.8562817,22.459397 C22.9189041,22.459397 24.2804292,20.6936028 24.2804292,18.6303733 L24.2804292,5.55657622 C24.2804292,3.49334675 22.685812,1.82103219 20.6225825,1.82103219" id="Shape"></path>
+                            <path d="M4.85608584,10.5864499 L7.07801929,10.5864499" id="Shape"></path>
+                            <path d="M10.9261931,10.5864499 L13.1481266,10.5864499" id="Shape"></path>
+                            <path d="M17.6033112,10.5864499 L19.8252446,10.5864499" id="Shape"></path>
+                            <path d="M4.85608584,15.7098033 L7.07801929,15.7098033" id="Shape"></path>
+                            <path d="M10.9261931,15.7098033 L13.1481266,15.7098033" id="Shape"></path>
+                            <path d="M17.6033112,15.7098033 L19.8252446,15.7098033" id="Shape"></path>
+                            <path d="M3.64206438,1.82103219 L20.7933911,1.82103219" id="Shape"></path>
+                            <path d="M6.67711803,0 L6.67711803,3.70322241" id="Shape"></path>
+                            <path d="M17.6033112,0 L17.6033112,3.70322241" id="Shape"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

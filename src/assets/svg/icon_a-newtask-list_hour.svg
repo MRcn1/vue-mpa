@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="27px" viewBox="0 0 26 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_a-newtask-list_time</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="任务分派" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="A2.1_查看全部进度（工时）" transform="translate(-14.000000, -74.000000)" stroke="#B2B9C8">
+            <g id="属性内容" transform="translate(0.000000, 64.000000)">
+                <g id="Group-8" transform="translate(13.000000, 9.000000)">
+                    <g id="icon_日期" transform="translate(0.000000, 0.600000)">
+                        <g id="icon" transform="translate(0.500000, 0.806452)">
+                            <rect id="Rectangle" x="5.11290323" y="5.98356565" width="16.5964077" height="15.5483871" rx="3"></rect>
+                            <path d="M8.92222757,4.45314478 L8.92222757,7.32602768" id="Path-2" stroke-linecap="round"></path>
+                            <path d="M17.8999866,4.45314478 L17.8999866,7.32602768" id="Path-2" stroke-linecap="round"></path>
+                            <polyline id="Path-3" stroke-linecap="round" stroke-linejoin="round" points="9.11323106 11.8536187 13.2709454 15.3907786 18.7007962 9.83681692"></polyline>
+                            <circle id="Oval" fill="#FFFFFF" cx="13.4111071" cy="15.091729" r="1.22580645"></circle>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

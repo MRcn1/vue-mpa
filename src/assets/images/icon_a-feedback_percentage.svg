@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="31px" viewBox="0 0 32 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_a-feedback_percentage</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="任务分派" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="A1.11_进度反馈" transform="translate(-171.000000, -576.000000)" stroke="#648EEC">
+            <g id="按百分比" transform="translate(125.000000, 542.000000)">
+                <g id="Group-2" transform="translate(36.000000, 34.500000)">
+                    <g id="icon_反馈方式" transform="translate(10.000000, 0.000000)">
+                        <g id="icon" transform="translate(0.500000, 0.000000)">
+                            <rect id="Rectangle" stroke-width="1.5" x="1.75" y="3.17055448" width="27.2099284" height="25.5" rx="4"></rect>
+                            <path d="M8.03100288,0.739341489 L8.03100288,5.42667674" id="Path-2" stroke-width="1.5" stroke-linecap="round"></path>
+                            <path d="M22.6789255,0.739341489 L22.6789255,5.42667674" id="Path-2" stroke-width="1.5" stroke-linecap="round"></path>
+                            <g id="Group-3" transform="translate(7.702533, 10.441401)" stroke-width="1.4">
+                                <path d="M2.37929016,11.8985002 L13.4366454,0.807839707" id="Path-2" stroke-linecap="round"></path>
+                                <circle id="Oval" cx="3.22054517" cy="3.30783971" r="2.5"></circle>
+                                <circle id="Oval" cx="12.1809476" cy="9.3985002" r="2.5"></circle>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

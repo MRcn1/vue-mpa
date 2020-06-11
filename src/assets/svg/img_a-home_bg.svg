@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="375px" height="88px" viewBox="0 0 375 88" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>img_a-home_bg</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="105.828706%" x2="50%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#68A4DE" offset="0%"></stop>
+            <stop stop-color="#5077AA" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="设计稿" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="A1_首页" transform="translate(0.000000, -63.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <g id="bg" transform="translate(0.000000, 64.000000)">
+                <path d="M0,0 L375,0 L375,75.3221908 C313.799688,83.1073969 251.299688,87 187.5,87 C123.700312,87 61.2003116,83.1073969 0,75.3221908 L0,0 Z" id="Rectangle"></path>
+            </g>
+        </g>
+    </g>
+</svg>

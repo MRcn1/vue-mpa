@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="23px" viewBox="0 0 22 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_search_sort_screen-pressed</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="任务分派" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="A_我的（我负责的）" transform="translate(-339.000000, -77.000000)" stroke="#5585F0" stroke-width="1.5">
+            <g id="搜索栏" transform="translate(0.000000, 64.000000)">
+                <g id="icon_search_screen" transform="translate(281.000000, 7.000000)">
+                    <g transform="translate(57.500000, 6.000000)" id="Path-2">
+                        <polyline points="10.6669866 17.2347926 9.53646833 16.0745239 9.32821497 11.7012033 4.47888676 4.26358338 18.5211132 4.26358338 14.0287908 11.0764433 14.0287908 19.7635834"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

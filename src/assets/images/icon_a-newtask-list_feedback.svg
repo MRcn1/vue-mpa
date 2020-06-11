@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="28px" viewBox="0 0 26 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_a-newtask-list_feedback</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="任务分派" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="A1.15_新建任务（完整）" transform="translate(-14.000000, -561.000000)" stroke="#B2B9C8">
+            <g id="属性内容" transform="translate(0.000000, 552.000000)">
+                <g id="icon_日期" transform="translate(14.000000, 9.000000)">
+                    <g id="Group" transform="translate(0.000000, 0.529412)">
+                        <path d="M21.0320451,18.7862633 C21.0320451,20.1308284 19.9422739,21.2205996 18.5977088,21.2205996 L7.23747268,21.2205996 C5.89290759,21.2205996 4.80313637,20.1308284 4.80313637,18.7862633 L4.80313637,8.23747268 C4.80313637,6.89290759 5.89290759,5.80313637 7.23747268,5.80313637 L18.5977088,5.80313637 C19.9422739,5.80313637 21.0320451,6.89290759 21.0320451,8.23747268 L21.0320451,18.7862633 L21.0320451,18.7862633 Z" id="Shape"></path>
+                        <path d="M8.04891811,9.86036355 L17.8959769,9.86036355" id="Shape" stroke-width="0.8"></path>
+                        <path d="M8.04891811,13.511868 L17.8959769,13.511868" id="Shape" stroke-width="0.8"></path>
+                        <path d="M8.04891811,17.1633725 L17.8959769,17.1633725" id="Shape" stroke-width="0.8"></path>
+                        <path d="M10.4832544,8.80154002 L10.4832544,10.9191871" id="Shape"></path>
+                        <path d="M15.351927,12.4530445 L15.351927,14.5706915" id="Shape"></path>
+                        <path d="M10.4832544,16.1045489 L10.4832544,18.222196" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

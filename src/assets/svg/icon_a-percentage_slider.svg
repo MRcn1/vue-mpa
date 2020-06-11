@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="33px" viewBox="0 0 33 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_a-percentage_slider</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="16.1898774" cy="15.7695368" r="11.7695368"></circle>
+        <filter x="-29.7%" y="-21.2%" width="159.5%" height="159.5%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.888589204   0 0 0 0 0.89590802   0 0 0 0 0.911591199  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="任务分派" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="A2.2_更新任务（百分比）" transform="translate(-76.000000, -291.000000)">
+            <g id="更新任务" transform="translate(18.500000, 177.500000)">
+                <g id="Group" transform="translate(1.000000, 101.500000)">
+                    <g id="icon_a-percentage_slider" transform="translate(57.284069, 12.500000)">
+                        <g id="Oval-2">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        </g>
+                        <path d="M12.4598634,10.7695368 C12.9240991,10.7695368 13.3004366,11.1458742 13.3004366,11.61011 L13.3004366,19.9289635 C13.3004366,20.3931993 12.9240991,20.7695368 12.4598634,20.7695368 C11.9956276,20.7695368 11.6192901,20.3931993 11.6192901,19.9289635 L11.6192901,11.61011 C11.6192901,11.1458742 11.9956276,10.7695368 12.4598634,10.7695368 Z M16.1892903,10.7695368 C16.6535261,10.7695368 17.0298635,11.1458742 17.0298635,11.61011 L17.0298635,19.9289635 C17.0298635,20.3931993 16.6535261,20.7695368 16.1892903,20.7695368 C15.7250545,20.7695368 15.3487171,20.3931993 15.3487171,19.9289635 L15.3487171,11.61011 C15.3487171,11.1458742 15.7250545,10.7695368 16.1892903,10.7695368 Z M19.9187173,10.7695368 C20.382953,10.7695368 20.7592905,11.1458742 20.7592905,11.61011 L20.7592905,19.9289635 C20.7592905,20.3931993 20.382953,20.7695368 19.9187173,20.7695368 C19.4544815,20.7695368 19.078144,20.3931993 19.078144,19.9289635 L19.078144,11.61011 C19.078144,11.1458742 19.4544815,10.7695368 19.9187173,10.7695368 Z" id="Combined-Shape" fill="#89B2FF"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

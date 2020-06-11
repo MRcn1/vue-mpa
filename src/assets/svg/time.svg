@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="26px" viewBox="0 0 28 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>日期@3x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="任务分派" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="A_任务分派_新建（默认）" transform="translate(-13.000000, -282.000000)">
+            <g id="属性内容" transform="translate(0.000000, 272.000000)">
+                <g id="icon_日期" transform="translate(13.500000, 10.000000)">
+                    <rect id="Rectangle-2" x="0.5" y="0" width="26" height="26"></rect>
+                    <g id="日期" transform="translate(5.000000, 5.000000)" stroke="#B2B9C8">
+                        <path d="M2.62672501,1.22935648 C1.23386412,1.22935648 0,2.35831552 0,3.75117641 L0,12.5771364 C0,13.9699973 1.33917899,15.1620633 2.7316301,15.1620633 L14.0798198,15.1620633 C15.4722709,15.1620633 16.3914197,13.9699973 16.3914197,12.5771364 L16.3914197,3.75117641 C16.3914197,2.35831552 15.3149133,1.22935648 13.9220524,1.22935648" id="Shape"></path>
+                        <path d="M3.27828395,7.14678241 L4.77828395,7.14678241" id="Shape" stroke-width="1.2"></path>
+                        <path d="M7.37613889,7.14678241 L8.87613889,7.14678241" id="Shape" stroke-width="1.2"></path>
+                        <path d="M11.8837793,7.14678241 L13.3837793,7.14678241" id="Shape" stroke-width="1.2"></path>
+                        <path d="M3.27828395,10.6054954 L4.77828395,10.6054954" id="Shape" stroke-width="1.2"></path>
+                        <path d="M7.37613889,10.6054954 L8.87613889,10.6054954" id="Shape" stroke-width="1.2"></path>
+                        <path d="M11.8837793,10.6054954 L13.3837793,10.6054954" id="Shape" stroke-width="1.2"></path>
+                        <path d="M2.45871296,1.22935648 L14.0373631,1.22935648" id="Shape"></path>
+                        <path d="M4.50764043,0 L4.50764043,2.5" id="Shape"></path>
+                        <path d="M11.8837793,0 L11.8837793,2.5" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="40px" viewBox="0 0 52 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>switch_on</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="任务分派" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="A1.15_新建任务（完整）" transform="translate(-308.000000, -490.000000)">
+            <g id="属性内容" transform="translate(0.000000, 364.000000)">
+                <g id="Group" transform="translate(48.000000, 126.000000)">
+                    <g id="switch_off" transform="translate(260.000000, 0.000000)">
+                        <g id="btn_scan">
+                            <rect id="Rectangle-13" fill="#648EEC" x="15.4086111" y="11" width="36.5625" height="18" rx="9"></rect>
+                            <ellipse id="Oval" fill="#FFFFFF" cx="42.2211111" cy="20" rx="7.58333333" ry="7"></ellipse>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

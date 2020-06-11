@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="31px" viewBox="0 0 32 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_a-feedback_time</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="任务分派" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="A1.11_进度反馈" transform="translate(-296.000000, -576.000000)" stroke="#648EEC" stroke-width="1.5">
+            <g id="按工时" transform="translate(250.000000, 542.000000)">
+                <g id="Group-4" transform="translate(43.000000, 34.500000)">
+                    <g id="icon_反馈方式" transform="translate(3.000000, 0.000000)">
+                        <g id="icon" transform="translate(0.500000, 0.000000)">
+                            <rect id="Rectangle" x="1.75" y="3.17055448" width="27.2099284" height="25.5" rx="4"></rect>
+                            <path d="M8.03100288,0.739341489 L8.03100288,5.42667674" id="Path-2" stroke-linecap="round"></path>
+                            <path d="M22.6789255,0.739341489 L22.6789255,5.42667674" id="Path-2" stroke-linecap="round"></path>
+                            <polyline id="Path-3" stroke-linecap="round" stroke-linejoin="round" points="8.34264015 12.8137989 15.1262793 18.5849546 23.9855096 9.52322761"></polyline>
+                            <circle id="Oval" fill="#FFFFFF" cx="15.3549642" cy="18.0970316" r="2"></circle>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

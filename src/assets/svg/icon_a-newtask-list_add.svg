@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_a-newtask-list_add</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="任务分派" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="A1.9_任务地点（列表）" transform="translate(-13.000000, -342.000000)" stroke="#6E9BFF">
+            <g id="新建地址" transform="translate(0.000000, 331.000000)">
+                <g id="icon_日期" transform="translate(13.000000, 11.000000)">
+                    <g id="icon_增加" transform="translate(0.500000, 0.500000)">
+                        <path d="M22.5,13.5 C22.5,18.4725 18.4707,22.5 13.5,22.5 C8.5293,22.5 4.5,18.4725 4.5,13.5 C4.5,8.5275 8.5293,4.5 13.5,4.5 C18.4707,4.5 22.5,8.5275 22.5,13.5 L22.5,13.5 Z" id="Shape"></path>
+                        <path d="M8.37196062,13.1844729 L17.9969851,13.1844729" id="Shape"></path>
+                        <path d="M13.1844729,8.37196062 L13.1844729,17.9969851" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

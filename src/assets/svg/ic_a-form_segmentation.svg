@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="26px" viewBox="0 0 23 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_a-form_segmentation</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="创建表单" transform="translate(-310.000000, -380.000000)">
+            <g id="03" transform="translate(8.000000, 362.000000)">
+                <g id="时间" transform="translate(269.000000, 0.000000)">
+                    <g id="ic_a-form_segmentation" transform="translate(33.000000, 18.000000)">
+                        <path d="M2.78571429,1.57857143 C2.11902769,1.57857143 1.57857143,2.11902769 1.57857143,2.78571429 L1.57857143,23.2142857 C1.57857143,23.8809723 2.11902769,24.4214286 2.78571429,24.4214286 L19.5,24.4214286 C20.1666866,24.4214286 20.7071429,23.8809723 20.7071429,23.2142857 L20.7071429,2.78571429 C20.7071429,2.11902769 20.1666866,1.57857143 19.5,1.57857143 L2.78571429,1.57857143 Z M2.78571429,0 L19.5,0 C21.0385075,-2.82619246e-16 22.2857143,1.24720677 22.2857143,2.78571429 L22.2857143,23.2142857 C22.2857143,24.7527932 21.0385075,26 19.5,26 L2.78571429,26 C1.24720677,26 1.88412831e-16,24.7527932 0,23.2142857 L0,2.78571429 C-1.88412831e-16,1.24720677 1.24720677,2.82619246e-16 2.78571429,0 Z" id="Rectangle-4" fill="#7B7D80" fill-rule="nonzero"></path>
+                        <rect id="Rectangle-6" fill="#A7A7A7" transform="translate(11.142857, 12.535714) rotate(-90.000000) translate(-11.142857, -12.535714) " x="10.2142857" y="6.03571429" width="1.85714286" height="13" rx="0.928571429"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

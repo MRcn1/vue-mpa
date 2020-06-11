@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="47px" height="47px" viewBox="0 0 47 47" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>A1_btn_3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFA77F" offset="0%"></stop>
+            <stop stop-color="#FF8F6A" offset="100%"></stop>
+        </linearGradient>
+        <path d="M3.67609208,1.80041775 C4.90129414,1.43409067 6.10120886,1.01715808 7.30124694,0.714080155 C9.23381584,0.221408923 11.1159026,0.600379677 12.9474147,1.2319462 C15.0063586,1.93931305 17.0526279,2.21722699 19.1367358,1.38348516 C19.8820336,1.09305091 20.551562,0.587736011 21.2589288,0.246696255 C21.5493631,0.10780096 21.9787852,-0.0185431834 22.2315351,0.0951572942 C22.4083614,0.170926774 22.5219694,0.676149157 22.4967746,0.966706765 C22.3324686,3.45507271 22.1178038,5.94346949 21.9536212,8.43183544 C21.9156902,8.97498882 21.7514767,9.35383622 21.2967365,9.6570375 C19.199985,11.1601843 16.863158,11.8043945 14.2989917,11.5265114 C12.5179618,11.3370106 10.8000576,11.4760293 9.22117217,12.3727427 C8.93073792,12.5370487 8.64018031,12.7390698 8.38758454,12.9665016 C7.75598717,13.509655 7.47810407,14.0780032 7.81911299,14.9621963 C8.37494087,16.3895428 8.76643194,17.8800152 9.25913401,19.3452927 C9.42331663,19.8631587 9.3853548,20.254804 8.85484508,20.4189866 C8.3116917,20.5705256 8.10967059,20.2041985 7.95800828,19.7494582 C6.26551484,14.3938481 4.57292888,9.0507583 2.86766843,3.70769932 C2.64023663,2.97504514 2.37496636,2.24251432 2.14765791,1.52250381 C2.02128293,1.13088939 1.98347529,0.739398324 2.4633795,0.575092345 C2.9813689,0.398235215 3.27180316,0.663505491 3.43598578,1.13088939 C3.5497171,1.3708415 3.61284291,1.61091696 3.67609208,1.80041775 Z" id="path-2"></path>
+        <filter x="-24.5%" y="-19.6%" width="148.9%" height="149.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.998883929   0 0 0 0 0.499436334   0 0 0 0 0.318220835  0 0 0 0.658854167 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="A1_首页" transform="translate(-164.000000, -90.000000)">
+            <rect fill="#FFFFFF" x="0" y="0" width="375" height="1356"></rect>
+            <g id="Group-3" transform="translate(14.000000, 75.000000)">
+                <g id="Group-2" transform="translate(150.000000, 15.000000)">
+                    <circle id="Oval" fill="url(#linearGradient-1)" cx="23.5" cy="23.5" r="23.5"></circle>
+                    <g id="Group" transform="translate(11.239130, 12.260870)">
+                        <ellipse id="Oval-2" fill="#F97D54" opacity="0.4" cx="12.2828719" cy="19.9020095" rx="11.921724" ry="4.63773238"></ellipse>
+                        <ellipse id="Oval-2" fill="#FEE3D1" cx="11.2795017" cy="20.033143" rx="10.4645834" ry="4.07088247"></ellipse>
+                        <g id="Fill-1">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

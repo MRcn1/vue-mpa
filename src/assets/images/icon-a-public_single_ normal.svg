@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="20px" viewBox="0 0 18 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-a-public_single_ normal</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="9" cy="9" r="9"></circle>
+    </defs>
+    <g id="任务分派" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="A1.8_设置提醒（频率弹窗）" transform="translate(-40.000000, -345.000000)">
+            <g id="频率" transform="translate(20.000000, 128.500000)">
+                <g id="频率列表" transform="translate(0.000000, 201.000000)">
+                    <g id="Group" transform="translate(20.000000, 16.500000)">
+                        <g id="Oval-2">
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                            <circle stroke="#E3E4E8" stroke-width="1.5" cx="9" cy="9" r="8.25"></circle>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
