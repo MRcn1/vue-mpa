@@ -42,7 +42,7 @@
     "echarts": "^4.1.0",
     "exif-js": "^2.3.0",
     "handsontable": "^6.1.0",
-    "highcharts": "^6.1.1",
+    "highcharts": "^9.0.0",
     "html2canvas": "^1.0.0-alpha.12",
     "json": "^9.0.6",
     "jsonp": "^0.2.1",
