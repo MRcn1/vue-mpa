@@ -44,7 +44,7 @@
     "handsontable": "^6.1.0",
     "highcharts": "^6.1.1",
     "html2canvas": "^1.0.0-alpha.12",
-    "json": "^9.0.6",
+    "json": "^10.0.0",
     "jsonp": "^0.2.1",
     "moment": "^2.24.0",
     "qrcode": "^1.2.2",
