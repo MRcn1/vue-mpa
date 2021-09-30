@@ -41,7 +41,7 @@
     "dayjs": "^1.7.5",
     "echarts": "^4.1.0",
     "exif-js": "^2.3.0",
-    "handsontable": "^6.1.0",
+    "handsontable": "^10.0.0",
     "highcharts": "^6.1.1",
     "html2canvas": "^1.0.0-alpha.12",
     "json": "^9.0.6",
